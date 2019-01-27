@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Stats: {fileID: 0}
   skill: {fileID: 0}
-  pm: {fileID: 0}
+  waitStep: 10
 --- !u!1001 &7571530864563643456
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31,7 +31,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 9e1977ab3ad74224a9cfd66e12416b3a,
+      objectReference: {fileID: 21300000, guid: 041fbe97b207fd8488ea2071d291d4d5,
         type: 3}
     - target: {fileID: 6492186878429048321, guid: ca7f035584129b9458d07aeb28cf9ed3,
         type: 3}
